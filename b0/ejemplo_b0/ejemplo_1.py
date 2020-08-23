@@ -1,6 +1,6 @@
 name = "ramaBeta"
 
-print("branch :" + name)
+print("checkout :" + name)
 
 input()
 
